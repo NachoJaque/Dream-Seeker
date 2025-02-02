@@ -1,5 +1,6 @@
 # CHANGELOG
 
-## 1.2.0
+## 0.1
 
-- Add support for Foundry v10
+- Creation of the repository
+- Create Actor Types
